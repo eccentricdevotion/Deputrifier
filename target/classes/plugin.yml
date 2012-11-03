@@ -1,0 +1,13 @@
+author: eccentric_nz
+database: false
+description: Makes gamey rotten zombie flesh safe to eat by freshening it up with
+  a mixture of herbs!
+main: me.eccentric_nz.plugins.deputrifier.Deputrifier
+name: Deputrifier
+startup: postworld
+dev-url: http://dev.bukkit.org/server-mods/deputrifier
+version: '1.0'
+permissions:
+   deputrifier.use:
+      description: Allow players to change rotten flesh into beef.
+      default: op
