@@ -6,7 +6,7 @@ main: me.eccentric_nz.plugins.deputrifier.Deputrifier
 name: Deputrifier
 startup: postworld
 dev-url: http://dev.bukkit.org/server-mods/deputrifier
-version: '1.1'
+version: '1.2'
 permissions:
    deputrifier.use:
       description: Allow players to change rotten flesh into beef.
